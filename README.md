@@ -44,57 +44,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Agora.io](https://www.agora.io/)**  
+> **Market Size & Structure:** The global Real-Time Engagement (CPaaS & WebRTC) market is estimated at **~$15 Billion – $20 Billion** and is **moderately fragmented**, featuring large enterprise market leaders alongside specialized infrastructure platforms.
 
-  **Real-time engagement platform** — voice, video, and interactive streaming with sub-second latency . **SDKs for every major platform** . **Best for interactive live streaming and social applications** .
-
-
-
-- **[Twilio Live](https://www.twilio.com/)**  
-
-  **Twilio's live streaming platform** — interactive video with low latency and audience engagement . **Integrated with Twilio's communication APIs** . **Best for interactive live events** .
-
-
-
-- **[Daily.co](https://www.daily.co/)**  
-
-  **Real-time video and audio APIs** — embed video calls in applications with simple SDKs . **Best for developer-friendly video integration** .
+| Product / Platform | Company Scale (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier / Trial Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Real-Time Engagement](https://www.salesforce.com/)** | **$186B Market Cap** ($41.5B Annual Rev) | $25/user/month (Salesforce Starter / Service Cloud baseline) | 30-day free trial (full environment access) | Salesforce's real-time engagement platform — integrated with Salesforce CRM for omnichannel customer engagement. Best for Salesforce enterprise customers. |
+| **[Twilio Live](https://www.twilio.com/)** | **$42B Market Cap** ($5.07B Annual Rev) | $0.004/video participant min ($0.001/audio min) | $15 – $25 free trial credit upon sign-up | Twilio's live streaming & real-time communication platform — low-latency interactive video integrated with Twilio APIs. Best for interactive live events. |
+| **[Vonage Video API](https://www.vonage.com/)** | **$6.2B Acquisition** ($1.4B Annual Rev) | $0.0041/participant minute | 100,000 free minutes trial (75k video / 25k advanced) | Video API platform (formerly TokBox OpenTok) — embed live WebRTC video. Best for interactive enterprise video applications. |
+| **[Ably](https://ably.com/)** | **$2.1B Valuation** ($18.3M Annual Rev) | $29/month (Standard Plan; $2.50/M extra msgs) | 6,000,000 messages/month & 200 concurrent connections | Real-time messaging infrastructure — pub/sub with guaranteed delivery at scale. Best for mission-critical real-time messaging. |
+| **[Sendbird Calls](https://sendbird.com/)** | **$1.1B Valuation** ($50M+ Annual Rev) | $399/month (Starter tier for up to 5k MAU) | Developer Plan: 100 MAUs free forever (or 30-day trial for 1,000 MAUs) | Voice and video calling API & SDKs — embed high-quality calling directly in mobile & web applications. Best for in-app communication. |
+| **[Agora.io](https://www.agora.io/)** | **$345M Market Cap** ($160M+ Annual Rev) | $0.99 / 1,000 audio mins ($3.99 / 1,000 HD video mins) | 10,000 combined RTC minutes free every month | Real-time engagement platform — voice, video, and interactive streaming with sub-second latency and SDKs for every major platform. Best for interactive live streaming & social apps. |
+| **[PubNub](https://www.pubnub.com/)** | **$220M Valuation** ($40M+ Annual Rev) | $98/month (Starter plan up to 1,000 MAU) | 200 MAUs & 1,000,000 transactions/month free | Real-time communication platform — pub/sub messaging, presence, and chat. Best for real-time applications at scale. |
+| **[Daily.co](https://www.daily.co/)** | **~$150M Valuation** (Privately Held) | $0.004/participant minute (pay-as-you-go) | 10,000 participant minutes free every month | Real-time video and audio APIs — embed video calls in applications with simple SDKs. Best for developer-friendly video integration. |
+| **[Pusher](https://pusher.com/)** | **$35M Acquisition** ($1.5M+ ARR) | $49/month (Startup plan: 1M msgs/day, 500 connections) | Sandbox plan: 200,000 messages/day & 100 concurrent connections | Real-time messaging platform — WebSocket-based pub/sub channels for applications. Best for developer real-time features. |
 
 
-
-- **[Vonage Video API](https://www.vonage.com/)**  
-
-  **Video API platform** (formerly TokBox OpenTok) — embed live video with WebRTC . **Best for interactive video applications** .
-
-
-
-- **[Pusher](https://pusher.com/)**  
-
-  **Real-time messaging platform** — WebSocket-based pub/sub channels for applications . **Best for real-time features** .
-
-
-
-- **[Ably](https://ably.com/)**  
-
-  **Real-time messaging infrastructure** — pub/sub with guaranteed delivery at scale . **Best for mission-critical real-time messaging** .
-
-
-
-- **[PubNub](https://www.pubnub.com/)**  
-
-  **Real-time communication platform** — pub/sub messaging, presence, and chat . **Best for real-time applications at scale** .
-
-
-
-- **[Sendbird Calls](https://sendbird.com/)**  
-
-  **Voice and video calling API** — embed calls in applications . **Best for in-app communication** .
-
-
-
-- **[Salesforce Real-Time Engagement](https://www.salesforce.com/)**  
-
-  **Salesforce's real-time engagement** — integrated with Salesforce for customer engagement . **Best for Salesforce customers** .
 
 
 

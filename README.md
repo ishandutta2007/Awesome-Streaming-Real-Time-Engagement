@@ -20,7 +20,7 @@ This repository tracks notable **commercial real-time engagement platforms** and
 
 
 
-**Open-source emphasis**: Streaming real-time engagement is one of the strongest open-source domains. **LiveKit** leads as the open-source WebRTC platform with 20,700+ GitHub stars, powering ChatGPT's Advanced Voice Mode and used by Character.AI, Spotify, and Salesforce . **Jitsi** provides the most widely deployed open-source video conferencing with 25,000+ stars . **Centrifugo** delivers scalable real-time messaging with 8,000+ stars . **MediaMTX** brings zero-dependency multi-protocol media routing . **SRS** powers production live streaming with 29,000+ stars . **Janus** provides a general-purpose WebRTC gateway with 9,100+ stars . This section is heavily expanded.
+**Open-source emphasis**: Streaming real-time engagement is one of the strongest open-source domains. **LiveKit** leads as the open-source WebRTC platform with 20,700+ GitHub_Stars, powering ChatGPT's Advanced Voice Mode and used by Character.AI, Spotify, and Salesforce . **Jitsi** provides the most widely deployed open-source video conferencing with 25,000+ stars . **Centrifugo** delivers scalable real-time messaging with 8,000+ stars . **MediaMTX** brings zero-dependency multi-protocol media routing . **SRS** powers production live streaming with 29,000+ stars . **Janus** provides a general-purpose WebRTC gateway with 9,100+ stars . This section is heavily expanded.
 
 
 
@@ -72,25 +72,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[LiveKit](https://github.com/livekit/livekit)**  
 
-  **End-to-end realtime stack for connecting humans and AI**, Apache-2.0 licensed with **20,705+ GitHub stars** . **Scalable, distributed WebRTC SFU written in Go using Pion** . **Modern client SDKs for JavaScript, Swift, Kotlin, Flutter, React Native, and Rust** . **Built for production with JWT authentication and robust networking (UDP/TCP/TURN)** . **Powers ChatGPT's Advanced Voice Mode; used by Character.AI, Spotify, and Salesforce** . **Easy to deploy: single binary, Docker, or Kubernetes** . **The leading open-source WebRTC platform for AI and real-time engagement** . **Best for building scalable real-time video applications** .
+  **End-to-end realtime stack for connecting humans and AI**, Apache-2.0 licensed with **20,705+ GitHub_Stars** . **Scalable, distributed WebRTC SFU written in Go using Pion** . **Modern client SDKs for JavaScript, Swift, Kotlin, Flutter, React Native, and Rust** . **Built for production with JWT authentication and robust networking (UDP/TCP/TURN)** . **Powers ChatGPT's Advanced Voice Mode; used by Character.AI, Spotify, and Salesforce** . **Easy to deploy: single binary, Docker, or Kubernetes** . **The leading open-source WebRTC platform for AI and real-time engagement** . **Best for building scalable real-time video applications** .
 
 
 
 - **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)**  
 
-  **The leading open-source video conferencing platform**, Apache-2.0 licensed with **25,000+ GitHub stars** . **WebRTC-based with scalable SFU** . **Embeddable via IFrame API and SDKs** . **No account required** — start a meeting instantly . **Best for video conferencing** .
+  **The leading open-source video conferencing platform**, Apache-2.0 licensed with **25,000+ GitHub_Stars** . **WebRTC-based with scalable SFU** . **Embeddable via IFrame API and SDKs** . **No account required** — start a meeting instantly . **Best for video conferencing** .
 
 
 
 - **[Janus WebRTC Server](https://github.com/meetecho/janus-gateway)**  
 
-  **General-purpose WebRTC server**, GPL-3.0 licensed with **9,159+ GitHub stars** . **Plugin architecture for VideoRoom, SIP, streaming, and more** . **Supports WebSockets, MQTT, RabbitMQ, and Data Channels** . **The reference for flexible WebRTC deployments** . **Best for custom WebRTC applications** .
+  **General-purpose WebRTC server**, GPL-3.0 licensed with **9,159+ GitHub_Stars** . **Plugin architecture for VideoRoom, SIP, streaming, and more** . **Supports WebSockets, MQTT, RabbitMQ, and Data Channels** . **The reference for flexible WebRTC deployments** . **Best for custom WebRTC applications** .
 
 
 
 - **[Jitsi Videobridge](https://github.com/jitsi/jitsi-videobridge)**  
 
-  **WebRTC-compatible video router/SFU**, Apache-2.0 licensed with **3,103+ GitHub stars** . **Lets you build highly scalable video conferencing infrastructure** . **Powers Jitsi Meet** . **Best for scalable video conferencing** .
+  **WebRTC-compatible video router/SFU**, Apache-2.0 licensed with **3,103+ GitHub_Stars** . **Lets you build highly scalable video conferencing infrastructure** . **Powers Jitsi Meet** . **Best for scalable video conferencing** .
 
 
 
@@ -112,7 +112,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[Centrifugo](https://github.com/centrifugal/centrifugo)**  
 
-  **Scalable real-time messaging server**, Apache-2.0 licensed with **8,000+ GitHub stars** . **WebSocket, HTTP-streaming, SSE, and GRPC** . **Pub/sub channels with presence and history** . **Best for real-time pub/sub messaging** .
+  **Scalable real-time messaging server**, Apache-2.0 licensed with **8,000+ GitHub_Stars** . **WebSocket, HTTP-streaming, SSE, and GRPC** . **Pub/sub channels with presence and history** . **Best for real-time pub/sub messaging** .
 
 
 
@@ -124,13 +124,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[NATS](https://github.com/nats-io/nats-server)**  
 
-  **Cloud-native messaging system**, Apache-2.0 licensed with **15,000+ GitHub stars** . **Lightweight, high-performance pub/sub** with JetStream for persistence . **Best for IoT and edge real-time messaging** .
+  **Cloud-native messaging system**, Apache-2.0 licensed with **15,000+ GitHub_Stars** . **Lightweight, high-performance pub/sub** with JetStream for persistence . **Best for IoT and edge real-time messaging** .
 
 
 
 - **[Socket.IO](https://github.com/socketio/socket.io)**  
 
-  **Bidirectional event-based communication**, MIT licensed with **60,000+ GitHub stars** . **WebSocket with fallback to HTTP long-polling** . **Best for real-time web applications** .
+  **Bidirectional event-based communication**, MIT licensed with **60,000+ GitHub_Stars** . **WebSocket with fallback to HTTP long-polling** . **Best for real-time web applications** .
 
 
 
@@ -146,7 +146,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[SRS (Simple Realtime Server)](https://github.com/ossrs/srs)**  
 
-  **The leading open-source live streaming server**, MIT/MulanPSL-2.0 licensed with **29,206+ GitHub stars** . **Supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH** . **RTMP latency 0.8–3s**; **min-latency mode ~0.1s for video-only** . **Scalable to millions of viewers** . **Best for production live streaming** .
+  **The leading open-source live streaming server**, MIT/MulanPSL-2.0 licensed with **29,206+ GitHub_Stars** . **Supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH** . **RTMP latency 0.8–3s**; **min-latency mode ~0.1s for video-only** . **Scalable to millions of viewers** . **Best for production live streaming** .
 
 
 
@@ -158,13 +158,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[Ant Media Server](https://github.com/ant-media/Ant-Media-Server)**  
 
-  **Ultra-low latency streaming engine with WebRTC (~0.5s)**, open-source with **4,727+ GitHub stars** . **Supports WebRTC, SRT, RTMP, HLS, CMAF, RTSP, and H.265/HEVC** . **SDKs for iOS, Android, React Native, Flutter, Unity, and JavaScript** . **Best for ultra-low latency interactive streaming** .
+  **Ultra-low latency streaming engine with WebRTC (~0.5s)**, open-source with **4,727+ GitHub_Stars** . **Supports WebRTC, SRT, RTMP, HLS, CMAF, RTSP, and H.265/HEVC** . **SDKs for iOS, Android, React Native, Flutter, Unity, and JavaScript** . **Best for ultra-low latency interactive streaming** .
 
 
 
 - **[OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine)**  
 
-  **Sub-second latency live streaming server**, AGPL-3.0 licensed with **3,272+ GitHub stars** . **Supports WebRTC, LL-HLS, and SRT** for large-scale high-definition streaming . **Best for ultra-low latency** .
+  **Sub-second latency live streaming server**, AGPL-3.0 licensed with **3,272+ GitHub_Stars** . **Supports WebRTC, LL-HLS, and SRT** for large-scale high-definition streaming . **Best for ultra-low latency** .
 
 
 

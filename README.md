@@ -68,7 +68,7 @@ Whether you are building ultra-low latency broadcasting apps (<500ms), sub-secon
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a sorted, comprehensive list of open-source real-time engagement repositories ordered by **GitHub Star Count (Descending)**.
+Below is a sorted, comprehensive list of open-source real-time engagement repositories ordered by **GitHub Stars_Count (Descending)**.
 
 ### 📹 WebRTC & Real-Time Video Platforms
 
@@ -137,7 +137,7 @@ Contributions are warmly welcome! Please follow these simple steps:
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in [README.md](file:///C:/Users/hp/Documents/Projects/Awesome-Streaming-Real-Time-Engagement/README.md).
-3. 🔗 Ensure all open-source repositories follow the GitHub star badge structure.
+3. 🔗 Ensure all open-source repositories follow the GitHub Stars_Badge structure.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 > Be sure to review the [Awesome-Awesome-Awesome Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for quality standard references.
